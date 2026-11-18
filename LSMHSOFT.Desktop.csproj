@@ -8,7 +8,7 @@
     <ProjectGuid>{D17C6C55-C1D7-435D-90DA-9501F046FF8E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>LSMHSOFT___Desktop</RootNamespace>
-    <AssemblyName>LSMHSOFT - Desktop</AssemblyName>
+    <AssemblyName>WinHotine</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -16,7 +16,7 @@
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <PublishUrl>D:\LSMHSOFT-Desktop\</PublishUrl>
+    <PublishUrl>C:\Users\diego\OneDrive\Desktop\WinHotine\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -30,7 +30,7 @@
     <ErrorReportUrl>https://github.com/DiegoTorresGon/LSMHSOFT-Desktop</ErrorReportUrl>
     <DisallowUrlActivation>true</DisallowUrlActivation>
     <TrustUrlParameters>true</TrustUrlParameters>
-    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationRevision>6</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
