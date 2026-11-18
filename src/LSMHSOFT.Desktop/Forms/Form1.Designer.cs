@@ -135,7 +135,7 @@ namespace LSMHSOFT___Desktop
             this.TitleLabel.Name = "TitleLabel";
             this.TitleLabel.Size = new System.Drawing.Size(286, 31);
             this.TitleLabel.TabIndex = 1;
-            this.TitleLabel.Text = "LSMHSOFT - Desktop";
+            this.TitleLabel.Text = "WinHotine Geoid Modelling";
             // 
             // button1
             // 
@@ -479,8 +479,8 @@ namespace LSMHSOFT___Desktop
             this.Controls.Add(this.TitleLabel);
             this.Controls.Add(this.DataOutput);
             this.Controls.Add(this.ModelFileButton);
-            this.Name = "LSMHSOFT";
-            this.Text = "LSMHSOFT - Desktop";
+            this.Name = "WinHotine";
+            this.Text = "WinHotine Geoid Modelling";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -118,6 +118,11 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="src\LSMHSOFT.Desktop\Forms\Form1.Designer.cs" />
+    <Compile Include="src\LSMHSOFT.Desktop\Forms\Form11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Form1.resx</DependentUpon>
+    </Compile>
     <Compile Include="src\LSMHSOFT.Desktop\Forms\PopUp.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -126,7 +131,16 @@
     <Compile Include="src\LSMHSOFT.Desktop\Properties\AssemblyInfo.cs" />
     <Compile Include="src\LSMHSOFT.Desktop\Properties\Resources.Designer.cs" />
     <Compile Include="src\LSMHSOFT.Desktop\Properties\Settings.Designer.cs" />
-    <EmbeddedResource Include="src\LSMHSOFT.Desktop\**\*.resx">
+    <EmbeddedResource Include="src\LSMHSOFT.Desktop\Forms\Form1.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Form11.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\LSMHSOFT.Desktop\Forms\PopUp.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\LSMHSOFT.Desktop\Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
